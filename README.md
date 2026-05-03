@@ -1,12 +1,11 @@
 # Hi, I'm Mustafa Ali 👋  
 💻 Software Engineer | ⚙️ Distributed Systems | 🤖 Applied AI | 🚀 0→1 Builder  
-📍 Boston, MA  
 
 ---
 
 ## ✨ About Me  
 
-I’m a software engineer with **3+ years of experience building scalable systems** and **0→1 products**, currently pursuing my **M.S. in Computer Science at UMass Amherst (4.0 GPA)**.
+I’m a software engineer with **3+ years of experience building scalable systems** and **0→1 products**, currently pursuing my **M.S. in Computer Science at UMass Amherst (3.96 GPA)**.
 
 I’ve worked as a **founding engineer at a startup**, where I designed backend systems, built microservices, and shipped real-world products used by **500+ hotels**.
 
@@ -21,7 +20,7 @@ I enjoy solving problems that sit at the intersection of **systems, scale, and i
 
 ## 🎓 Education  
 
-**University of Massachusetts Amherst** — M.S. Computer Science *(Sep 2024 – May 2026)* · **4.0 / 4.0**  
+**University of Massachusetts Amherst** — M.S. Computer Science *(Sep 2024 – May 2026)* · **3.96 / 4.0**  
 Coursework: Distributed Systems, Advanced Algorithms, Neural Networks, Software Engineering, Network Security, Statistics  
 
 **Indian Institute of Technology Bombay** — B.Tech Electrical Engineering *(Jul 2016 – Jun 2021)*  
@@ -152,7 +151,7 @@ Class-imbalanced **text classification** benchmark
 - **+52%** minority-class **recall** and **+26%** **F1** after augmentation  
 - With **RoBERTa**, reached **~99.8% recall** and **~98.8% F1** on the task  
 
-### 🎥 Video Stabilization & Object Detection *(Research, IIT Bombay · Mar 2025)*  
+### 🎥 Video Stabilization & Object Detection *(Research, IIT Bombay · 2021)*  
 Surveillance-oriented **multi-object tracking** and stable video  
 
 - Stabilized streams by compensating ego-motion with **optical flow**, **Kalman filtering**, and **MeshFlow**  
@@ -178,8 +177,8 @@ Surveillance-oriented **multi-object tracking** and stable video
 
 ## 🤝 Let’s Connect  
 
-- 💼 LinkedIn: _[add your profile URL]_  
-- 🌐 Portfolio: _[add your portfolio URL]_  
+- 💼 LinkedIn: [mustafa-ali-umass](https://www.linkedin.com/in/mustafa-ali-umass/)  
+- 🌐 Portfolio: [mustafa-ali-iitb.github.io/portfolioflix](https://mustafa-ali-iitb.github.io/portfolioflix/)  
 - 📫 Email: mustafaali@umass.edu  
 
 ---
