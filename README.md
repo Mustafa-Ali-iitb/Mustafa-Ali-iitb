@@ -111,7 +111,24 @@ Graph-augmented RAG system for repository-scale code understanding
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Concepts:** System design · Microservices · ETL · Data modeling · High availability · Fault-tolerant architecture · Low-latency systems · Consensus protocols · Workflow automation · API & full-stack development · Unit testing · Scalability & load balancing · Agile · Scrum  
+### 🤖 AI / ML:
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3.2-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-5B21B6?style=for-the-badge)
+![YOLOv3](https://img.shields.io/badge/YOLOv3-00FFFF?style=for-the-badge&logoColor=black)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0F766E?style=for-the-badge)
+
+**NLP & LLMs:** Natural language processing · Text classification · Imbalanced / long-tail data · **LLM-based data augmentation** · Synthetic sample generation · **LLaMA 3.2** · Encoder models (**RoBERTa**) · Benchmarking · **Recall** & **F1** · Model evaluation  
+
+**Retrieval & agents (systems):** **RAG** · **BM25** · Dense retrieval · Knowledge graphs · **LLM-as-judge** · Embeddings  
+
+**Computer vision:** Object detection (**YOLOv3**, **R-CNN** family) · **Multi-object tracking** · **Video stabilization** · **Optical flow** · **Kalman filtering** · **MeshFlow** · Surveillance pipelines · **PyTorch** training & benchmarking  
+
+**Engineering & delivery:** System design · Microservices · ETL · Data modeling · High availability · Fault-tolerant architecture · Low-latency systems · Consensus protocols · Workflow automation · API & full-stack development · Unit testing · Scalability & load balancing · Agile · Scrum  
 
 ---
 
@@ -127,6 +144,19 @@ Graph-guided retrieval for multi-file code reasoning — details above under **W
 ### 📈 TradeNet — Distributed Stock Trading Engine  
 - **Multithreaded** platform with **RPC**, caching, replication, and fault tolerance — **~30%** throughput, **~-40%** latency  
 - Deployed on **AWS** with **Docker** & **K3s** — **99.9% uptime**, scalable cloud-native architecture  
+
+### 🆘 LLMs to the Rescue *(Nov 2024)*  
+Class-imbalanced **text classification** benchmark  
+
+- Built a **class-imbalanced** NLP benchmark and applied **LLM-driven augmentation** with **LLaMA 3.2** to synthesize diverse samples for underrepresented classes  
+- **+52%** minority-class **recall** and **+26%** **F1** after augmentation  
+- With **RoBERTa**, reached **~99.8% recall** and **~98.8% F1** on the task  
+
+### 🎥 Video Stabilization & Object Detection *(Research, IIT Bombay · Mar 2025)*  
+Surveillance-oriented **multi-object tracking** and stable video  
+
+- Stabilized streams by compensating ego-motion with **optical flow**, **Kalman filtering**, and **MeshFlow**  
+- Deep **object detection** in **PyTorch** using **YOLOv3** and **R-CNN** variants; benchmarked on standard datasets with **98%+** classification accuracy  
 
 ---
 
